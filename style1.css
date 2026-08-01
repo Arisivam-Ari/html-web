@@ -1,11 +1,9 @@
 h1 {
-  
-  color: blue;
-  font-family: arial;
-  text-align: 22px;
-} 
+    color: blue;
+    font-family: Arial;
+}
 
 p {
-  color: blue;
-  text-align: 22px;
-} 
+    color: grey;
+    font-size: 14px;
+}
