@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Creative my log</title>
+</head>
+<body>
+    <h1>welcome</h1>
+    <p>This is for sample webpage</p>
+</body>
+<html>        
