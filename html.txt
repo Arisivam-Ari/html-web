@@ -7,4 +7,4 @@
     <h1>welcome</h1>
     <p>This is for sample webpage</p>
 </body>
-<html>        
+</html>        
